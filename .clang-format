@@ -1,0 +1,8 @@
+BasedOnStyle: LLVM
+IndentWidth: 4
+BreakBeforeBraces: Attach
+IndentCaseLabels: false
+PointerAlignment: Right
+ColumnLimit: '80'
+AllowShortIfStatementsOnASingleLine: false
+AlignConsecutiveMacros: AcrossEmptyLines
